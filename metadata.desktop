@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=tlp
+Type=Service
+X-KDE-PluginInfo-Author=Pavel Karoukin
+X-KDE-PluginInfo-Email=pavel@karoukin.us
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=tlp
+X-KDE-PluginInfo-Version=1
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-DefaultSize=200,100
+X-Plasma-MainScript=code/tlp.qml
